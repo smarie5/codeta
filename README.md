@@ -1,4 +1,4 @@
-CodeTA
+CodeTA 1
 ======
 
 A tool for automated source code grading.
